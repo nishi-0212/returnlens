@@ -1,0 +1,257 @@
+Review ID,SKU,Order ID,Review Date,Rating,Review
+REV-9677,SH-LIN,ORD-106847,2026-09-03,1,"Not as described, the colour is completely different"
+REV-9698,EB-200,ORD-107006,2026-09-02,4,"Good, but a bit pricey"
+REV-9701,BTL-IN,ORD-107045,2026-09-07,2,Arrived too late for the event
+REV-9702,TEE-OR,ORD-107048,2026-09-03,1,Changed my mind
+REV-9705,BLN-1,ORD-107076,2026-09-02,4,"Good, but a bit pricey"
+REV-9706,BTL-IN,ORD-107078,2026-09-01,4,"Good, but a bit pricey"
+REV-9718,VASE-1,ORD-107155,2026-09-01,5,"Love it, exactly as pictured"
+REV-9719,BTL-IN,ORD-107181,2026-09-02,5,Great quality for the price
+REV-9720,TEE-OR,ORD-107190,2026-09-01,5,Great quality for the price
+REV-9721,EB-200,ORD-107210,2026-09-03,5,Great quality for the price
+REV-9723,SH-LIN,ORD-107242,2026-09-04,1,Gift didn't work out
+REV-9728,VASE-1,ORD-107296,2026-09-04,4,"Works well, fast delivery"
+REV-9729,BTL-IN,ORD-107298,2026-09-01,5,"Love it, exactly as pictured"
+REV-9730,EB-200,ORD-107314,2026-09-02,4,"Good, but a bit pricey"
+REV-9731,EB-200,ORD-107341,2026-09-04,4,"Works well, fast delivery"
+REV-9732,EB-200,ORD-107343,2026-09-03,5,"Love it, exactly as pictured"
+REV-9733,EB-200,ORD-107344,2026-09-11,1,"Right earbud is dead, the charging contacts don't connect"
+REV-9734,DNM-SL,ORD-107380,2026-09-09,5,"Love it, exactly as pictured"
+REV-9738,LAMP-2,ORD-107394,2026-09-09,4,"Works well, fast delivery"
+REV-9739,TEE-OR,ORD-107395,2026-09-12,1,Found it cheaper elsewhere
+REV-9741,DNM-SL,ORD-107402,2026-09-02,4,"Works well, fast delivery"
+REV-9742,SH-LIN,ORD-107410,2026-09-02,5,"Love it, exactly as pictured"
+REV-9743,SH-LIN,ORD-107415,2026-09-04,4,"Good, but a bit pricey"
+REV-9744,DNM-SL,ORD-107423,2026-09-08,1,Inseam shorter than the size chart
+REV-9745,DNM-SL,ORD-107432,2026-09-03,2,Inseam shorter than the size chart
+REV-9746,BLN-1,ORD-107435,2026-09-04,1,"Missing the lid seal, jar leaks"
+REV-9747,TEE-OR,ORD-107440,2026-09-09,1,Broke within a week of use
+REV-9748,CHG-65,ORD-107444,2026-09-07,4,"Good, but a bit pricey"
+REV-9749,SNK-TR,ORD-107464,2026-09-13,2,"Too tight in the toe box, had to size up"
+REV-9750,SNK-TR,ORD-107474,2026-09-10,1,"Too tight in the toe box, had to size up"
+REV-9751,SH-LIN,ORD-107485,2026-09-10,2,Says 100% linen but feels like a polyester blend
+REV-9752,EB-200,ORD-107490,2026-09-06,2,Case won't charge the right bud anymore
+REV-9753,SNK-TR,ORD-107504,2026-09-06,4,"Good, but a bit pricey"
+REV-9754,TEE-OR,ORD-107505,2026-09-04,4,"Works well, fast delivery"
+REV-9755,SH-LIN,ORD-107515,2026-09-07,2,Too big
+REV-9756,BLN-1,ORD-107542,2026-09-07,4,"Good, but a bit pricey"
+REV-9757,MUG-4,ORD-107553,2026-09-05,1,Box was crushed and two mugs were chipped
+REV-9758,SH-LIN,ORD-107558,2026-09-07,3,Nice shirt but the colour isn't what the photos show
+REV-9759,MUG-4,ORD-107560,2026-09-03,2,Box was crushed and two mugs were chipped
+REV-9760,SNK-TR,ORD-107565,2026-09-05,4,"Good, but a bit pricey"
+REV-9761,EB-200,ORD-107575,2026-09-04,2,Left earbud stopped charging after a week
+REV-9762,BTL-IN,ORD-107577,2026-09-06,5,"Love it, exactly as pictured"
+REV-9763,MUG-4,ORD-107582,2026-09-01,1,"Packaging too thin, mugs arrived cracked"
+REV-9764,EB-200,ORD-107602,2026-09-10,5,"Love it, exactly as pictured"
+REV-9765,LAMP-2,ORD-107603,2026-09-05,1,Changed my mind
+REV-9766,BAG-TT,ORD-107605,2026-09-12,4,"Works well, fast delivery"
+REV-9767,SH-LIN,ORD-107611,2026-09-06,4,"Good, but a bit pricey"
+REV-9768,CHG-65,ORD-107628,2026-09-08,4,"Works well, fast delivery"
+REV-9769,BTL-IN,ORD-107630,2026-09-07,4,"Works well, fast delivery"
+REV-9770,VASE-1,ORD-107655,2026-09-11,4,"Works well, fast delivery"
+REV-9771,BAG-TT,ORD-107656,2026-09-10,5,"Love it, exactly as pictured"
+REV-9772,CHG-65,ORD-107659,2026-09-16,4,"Good, but a bit pricey"
+REV-9773,VASE-1,ORD-107672,2026-09-11,5,Great quality for the price
+REV-9774,BTL-IN,ORD-107692,2026-09-10,4,"Works well, fast delivery"
+REV-9775,SH-LIN,ORD-107713,2026-09-05,5,Great quality for the price
+REV-9776,SNK-TR,ORD-107717,2026-09-08,4,"Good, but a bit pricey"
+REV-9777,SH-LIN,ORD-107720,2026-09-18,2,Too small
+REV-9778,MUG-4,ORD-107729,2026-09-13,4,"Good, but a bit pricey"
+REV-9779,CHG-65,ORD-107751,2026-09-15,1,Material feels thin and flimsy
+REV-9780,BLN-1,ORD-107758,2026-09-14,5,"Love it, exactly as pictured"
+REV-9781,CHG-65,ORD-107760,2026-09-18,4,"Works well, fast delivery"
+REV-9782,VASE-1,ORD-107769,2026-09-13,2,Ordered by mistake
+REV-9783,EB-200,ORD-107775,2026-09-14,5,Great quality for the price
+REV-9784,SH-LIN,ORD-107793,2026-09-19,1,"The photos made it look sage green, it's a dull grey"
+REV-9785,SNK-TR,ORD-107795,2026-09-09,5,Great quality for the price
+REV-9786,LAMP-2,ORD-107827,2026-09-11,5,"Love it, exactly as pictured"
+REV-9787,BTL-IN,ORD-107832,2026-09-13,5,"Love it, exactly as pictured"
+REV-9788,LAMP-2,ORD-107844,2026-09-19,5,"Love it, exactly as pictured"
+REV-9789,TEE-OR,ORD-107857,2026-09-08,5,"Love it, exactly as pictured"
+REV-9790,EB-200,ORD-107869,2026-09-12,5,Great quality for the price
+REV-9791,CHG-65,ORD-107889,2026-09-16,5,Great quality for the price
+REV-9792,SNK-TR,ORD-107890,2026-09-17,4,"Good, but a bit pricey"
+REV-9793,EB-200,ORD-107917,2026-09-17,4,"Good, but a bit pricey"
+REV-9794,TEE-OR,ORD-107918,2026-09-21,5,"Love it, exactly as pictured"
+REV-9795,BLN-1,ORD-107920,2026-09-17,5,"Love it, exactly as pictured"
+REV-9796,VASE-1,ORD-107929,2026-09-11,1,"Arrived shattered, the courier box was smashed"
+REV-9797,LAMP-2,ORD-107931,2026-09-14,2,"Arrived shattered, the courier box was smashed"
+REV-9798,BAG-TT,ORD-107936,2026-09-19,4,"Works well, fast delivery"
+REV-9799,SNK-TR,ORD-107944,2026-09-21,1,"Too tight in the toe box, had to size up"
+REV-9800,MUG-4,ORD-107949,2026-09-15,1,Took 12 days to deliver
+REV-9801,DNM-SL,ORD-107955,2026-09-13,5,"Love it, exactly as pictured"
+REV-9802,SNK-TR,ORD-107980,2026-09-18,5,"Love it, exactly as pictured"
+REV-9803,SH-LIN,ORD-108011,2026-09-14,4,"Good, but a bit pricey"
+REV-9804,SNK-TR,ORD-108038,2026-09-17,5,Great quality for the price
+REV-9805,LAMP-2,ORD-108040,2026-09-16,4,"Good, but a bit pricey"
+REV-9806,SNK-TR,ORD-108041,2026-09-17,4,"Good, but a bit pricey"
+REV-9807,BLN-1,ORD-108048,2026-09-16,5,Great quality for the price
+REV-9808,BAG-TT,ORD-108057,2026-09-19,4,"Works well, fast delivery"
+REV-9809,EB-200,ORD-108072,2026-09-18,4,"Works well, fast delivery"
+REV-9810,SH-LIN,ORD-108081,2026-09-17,5,"Love it, exactly as pictured"
+REV-9811,BLN-1,ORD-108099,2026-09-23,5,"Love it, exactly as pictured"
+REV-9812,SNK-TR,ORD-108103,2026-09-25,1,Stopped working after a few days
+REV-9813,SNK-TR,ORD-108106,2026-09-17,5,"Love it, exactly as pictured"
+REV-9814,CHG-65,ORD-108108,2026-09-18,4,"Works well, fast delivery"
+REV-9815,EB-200,ORD-108117,2026-09-16,5,Great quality for the price
+REV-9816,EB-200,ORD-108119,2026-09-14,4,"Good, but a bit pricey"
+REV-9817,SH-LIN,ORD-108121,2026-09-18,4,"Works well, fast delivery"
+REV-9818,EB-200,ORD-108124,2026-09-15,4,"Works well, fast delivery"
+REV-9819,EB-200,ORD-108132,2026-09-18,4,"Good, but a bit pricey"
+REV-9820,LAMP-2,ORD-108136,2026-09-22,2,Ordered by mistake
+REV-9821,BAG-TT,ORD-108139,2026-09-18,4,"Good, but a bit pricey"
+REV-9822,DNM-SL,ORD-108142,2026-09-16,4,"Works well, fast delivery"
+REV-9823,DNM-SL,ORD-108144,2026-09-18,5,"Love it, exactly as pictured"
+REV-9824,EB-200,ORD-108145,2026-09-15,4,"Works well, fast delivery"
+REV-9825,MUG-4,ORD-108159,2026-09-15,4,"Good, but a bit pricey"
+REV-9826,EB-200,ORD-108161,2026-09-17,5,"Love it, exactly as pictured"
+REV-9827,DNM-SL,ORD-108165,2026-09-19,1,"Cheap feel, stitching coming loose"
+REV-9828,SNK-TR,ORD-108175,2026-09-15,1,Material feels thin and flimsy
+REV-9829,EB-200,ORD-108193,2026-09-20,4,"Good, but a bit pricey"
+REV-9830,LAMP-2,ORD-108211,2026-09-24,4,"Good, but a bit pricey"
+REV-9831,TEE-OR,ORD-108224,2026-09-19,4,"Good, but a bit pricey"
+REV-9832,BTL-IN,ORD-108226,2026-09-22,5,"Love it, exactly as pictured"
+REV-9833,SNK-TR,ORD-108236,2026-09-17,5,"Love it, exactly as pictured"
+REV-9834,EB-200,ORD-108246,2026-09-20,5,Great quality for the price
+REV-9835,LAMP-2,ORD-108259,2026-09-18,1,"Shade arrived cracked, parcel was clearly mishandled"
+REV-9836,VASE-1,ORD-108263,2026-09-19,4,"Works well, fast delivery"
+REV-9837,SNK-TR,ORD-108271,2026-09-19,5,Great quality for the price
+REV-9838,MUG-4,ORD-108292,2026-09-28,1,No longer needed
+REV-9839,DNM-SL,ORD-108300,2026-09-23,4,"Works well, fast delivery"
+REV-9840,DNM-SL,ORD-108307,2026-09-22,4,"Works well, fast delivery"
+REV-9841,EB-200,ORD-108314,2026-09-20,5,Great quality for the price
+REV-9842,VASE-1,ORD-108324,2026-09-27,4,"Good, but a bit pricey"
+REV-9843,DNM-SL,ORD-108328,2026-09-27,4,"Good, but a bit pricey"
+REV-9844,BAG-TT,ORD-108328,2026-09-29,1,No longer needed
+REV-9845,LAMP-2,ORD-108334,2026-09-19,1,Glass broke in transit
+REV-9846,SH-LIN,ORD-108338,2026-09-21,4,"Good, but a bit pricey"
+REV-9847,CHG-65,ORD-108348,2026-09-24,5,Great quality for the price
+REV-9848,BTL-IN,ORD-108355,2026-09-26,1,"Faulty unit, doesn't turn on"
+REV-9849,VASE-1,ORD-108355,2026-09-21,1,Broke within a week of use
+REV-9850,EB-200,ORD-108365,2026-09-23,5,"Love it, exactly as pictured"
+REV-9851,DNM-SL,ORD-108373,2026-09-28,4,"Works well, fast delivery"
+REV-9852,TEE-OR,ORD-108380,2026-09-23,4,"Works well, fast delivery"
+REV-9853,SNK-TR,ORD-108425,2026-09-26,4,"Good, but a bit pricey"
+REV-9854,DNM-SL,ORD-108427,2026-09-28,5,"Love it, exactly as pictured"
+REV-9855,SNK-TR,ORD-108454,2026-09-24,5,Great quality for the price
+REV-9856,BAG-TT,ORD-108458,2026-09-30,4,"Good, but a bit pricey"
+REV-9857,TEE-OR,ORD-108459,2026-09-24,4,"Works well, fast delivery"
+REV-9858,EB-200,ORD-108460,2026-09-23,5,"Love it, exactly as pictured"
+REV-9859,EB-200,ORD-108478,2026-09-21,2,Wrong item in the box
+REV-9860,BLN-1,ORD-108480,2026-09-25,5,Great quality for the price
+REV-9861,VASE-1,ORD-108482,2026-09-17,1,Wrong item in the box
+REV-9862,DNM-SL,ORD-108485,2026-09-29,4,"Works well, fast delivery"
+REV-9863,VASE-1,ORD-108494,2026-09-26,5,Great quality for the price
+REV-9864,SNK-TR,ORD-108495,2026-10-02,1,Gift didn't work out
+REV-9865,VASE-1,ORD-108496,2026-09-30,4,"Good, but a bit pricey"
+REV-9866,SNK-TR,ORD-108508,2026-09-24,5,Great quality for the price
+REV-9867,DNM-SL,ORD-108525,2026-09-25,4,"Works well, fast delivery"
+REV-9868,SNK-TR,ORD-108527,2026-10-04,1,"Toes hit the front, order one size up"
+REV-9869,DNM-SL,ORD-108550,2026-09-28,5,Great quality for the price
+REV-9870,VASE-1,ORD-108557,2026-10-01,2,Changed my mind
+REV-9871,BAG-TT,ORD-108578,2026-09-24,4,"Good, but a bit pricey"
+REV-9872,BTL-IN,ORD-108589,2026-10-01,4,"Good, but a bit pricey"
+REV-9873,BAG-TT,ORD-108590,2026-10-01,4,"Works well, fast delivery"
+REV-9874,EB-200,ORD-108595,2026-09-28,5,"Love it, exactly as pictured"
+REV-9875,TEE-OR,ORD-108597,2026-09-28,4,"Good, but a bit pricey"
+REV-9876,LAMP-2,ORD-108613,2026-10-02,5,Great quality for the price
+REV-9877,VASE-1,ORD-108619,2026-09-25,2,"Arrived shattered, the courier box was smashed"
+REV-9878,LAMP-2,ORD-108630,2026-09-26,4,"Good, but a bit pricey"
+REV-9879,SNK-TR,ORD-108637,2026-09-28,4,"Good, but a bit pricey"
+REV-9880,LAMP-2,ORD-108640,2026-09-25,4,"Works well, fast delivery"
+REV-9881,MUG-4,ORD-108647,2026-09-20,2,"Came in pieces, outer box had a big dent from the courier"
+REV-9882,BAG-TT,ORD-108654,2026-10-01,4,"Good, but a bit pricey"
+REV-9883,BLN-1,ORD-108657,2026-09-27,5,Great quality for the price
+REV-9884,TEE-OR,ORD-108666,2026-09-29,1,Too big
+REV-9885,MUG-4,ORD-108671,2026-09-27,4,"Works well, fast delivery"
+REV-9886,BLN-1,ORD-108679,2026-10-02,4,"Works well, fast delivery"
+REV-9887,SH-LIN,ORD-108680,2026-09-30,1,Ordered by mistake
+REV-9888,BLN-1,ORD-108699,2026-10-02,5,"Love it, exactly as pictured"
+REV-9889,MUG-4,ORD-108701,2026-10-02,4,"Good, but a bit pricey"
+REV-9890,EB-200,ORD-108703,2026-09-25,4,"Good, but a bit pricey"
+REV-9891,MUG-4,ORD-108710,2026-09-26,4,"Good, but a bit pricey"
+REV-9892,CHG-65,ORD-108712,2026-09-29,4,"Works well, fast delivery"
+REV-9893,TEE-OR,ORD-108716,2026-10-03,5,Great quality for the price
+REV-9894,BTL-IN,ORD-108785,2026-10-03,4,"Works well, fast delivery"
+REV-9895,CHG-65,ORD-108801,2026-10-03,4,"Good, but a bit pricey"
+REV-9896,DNM-SL,ORD-108804,2026-10-02,4,"Works well, fast delivery"
+REV-9897,EB-200,ORD-108836,2026-09-27,5,"Love it, exactly as pictured"
+REV-9898,BLN-1,ORD-108839,2026-09-26,5,Great quality for the price
+REV-9899,BAG-TT,ORD-108841,2026-09-30,5,"Love it, exactly as pictured"
+REV-9900,TEE-OR,ORD-108861,2026-10-06,4,"Good, but a bit pricey"
+REV-9901,MUG-4,ORD-108862,2026-09-28,2,No longer needed
+REV-9902,BAG-TT,ORD-108868,2026-10-02,5,"Love it, exactly as pictured"
+REV-9903,LAMP-2,ORD-108877,2026-10-02,1,No longer needed
+REV-9904,VASE-1,ORD-108881,2026-10-01,4,"Good, but a bit pricey"
+REV-9905,DNM-SL,ORD-108886,2026-10-09,2,Ordered by mistake
+REV-9906,BAG-TT,ORD-108887,2026-09-27,2,Gift didn't work out
+REV-9907,TEE-OR,ORD-108891,2026-10-04,5,Great quality for the price
+REV-9908,TEE-OR,ORD-108892,2026-10-04,4,"Works well, fast delivery"
+REV-9909,BLN-1,ORD-108896,2026-10-11,1,Found it cheaper elsewhere
+REV-9910,VASE-1,ORD-108902,2026-10-03,4,"Good, but a bit pricey"
+REV-9911,EB-200,ORD-108903,2026-10-01,5,Great quality for the price
+REV-9912,BAG-TT,ORD-108910,2026-10-09,5,Great quality for the price
+REV-9913,SNK-TR,ORD-108920,2026-10-05,4,"Good, but a bit pricey"
+REV-9914,EB-200,ORD-108930,2026-10-02,5,"Love it, exactly as pictured"
+REV-9915,SNK-TR,ORD-108943,2026-10-01,5,"Love it, exactly as pictured"
+REV-9916,SH-LIN,ORD-108945,2026-09-29,4,"Works well, fast delivery"
+REV-9917,SNK-TR,ORD-108957,2026-10-01,4,"Good, but a bit pricey"
+REV-9918,DNM-SL,ORD-108959,2026-10-05,5,"Love it, exactly as pictured"
+REV-9919,BLN-1,ORD-108973,2026-10-06,4,"Good, but a bit pricey"
+REV-9920,CHG-65,ORD-108991,2026-10-07,5,Great quality for the price
+REV-9921,MUG-4,ORD-108994,2026-10-04,5,Great quality for the price
+REV-9922,CHG-65,ORD-108999,2026-10-09,5,Great quality for the price
+REV-9923,DNM-SL,ORD-109007,2026-10-05,4,"Works well, fast delivery"
+REV-9924,SH-LIN,ORD-109021,2026-10-04,2,"Fabric is not linen, misleading description"
+REV-9925,BAG-TT,ORD-109031,2026-09-30,4,"Works well, fast delivery"
+REV-9926,SNK-TR,ORD-109032,2026-10-04,2,Stopped working after a few days
+REV-9927,CHG-65,ORD-109059,2026-10-08,2,No longer needed
+REV-9928,DNM-SL,ORD-109061,2026-10-04,4,"Works well, fast delivery"
+REV-9929,TEE-OR,ORD-109081,2026-10-02,1,Wrong item in the box
+REV-9930,TEE-OR,ORD-109089,2026-10-10,5,Great quality for the price
+REV-9931,BLN-1,ORD-109100,2026-10-11,5,Great quality for the price
+REV-9932,SH-LIN,ORD-109101,2026-10-07,4,"Works well, fast delivery"
+REV-9933,DNM-SL,ORD-109108,2026-10-04,2,"Fit is off, too loose at the waist"
+REV-9934,TEE-OR,ORD-109137,2026-10-08,4,"Works well, fast delivery"
+REV-9935,TEE-OR,ORD-109164,2026-10-08,4,"Good, but a bit pricey"
+REV-9936,SNK-TR,ORD-109169,2026-10-12,5,"Love it, exactly as pictured"
+REV-9937,MUG-4,ORD-109171,2026-10-04,4,"Good, but a bit pricey"
+REV-9938,CHG-65,ORD-109185,2026-10-10,5,Great quality for the price
+REV-9939,SNK-TR,ORD-109186,2026-10-07,5,"Love it, exactly as pictured"
+REV-9940,CHG-65,ORD-109191,2026-10-11,5,Great quality for the price
+REV-9941,CHG-65,ORD-109203,2026-10-10,5,"Love it, exactly as pictured"
+REV-9942,EB-200,ORD-109234,2026-10-06,4,"Good, but a bit pricey"
+REV-9943,BLN-1,ORD-109260,2026-10-07,4,"Works well, fast delivery"
+REV-9944,MUG-4,ORD-109270,2026-10-03,5,Great quality for the price
+REV-9945,VASE-1,ORD-109272,2026-10-14,1,"Faulty unit, doesn't turn on"
+REV-9946,DNM-SL,ORD-109279,2026-10-09,5,"Love it, exactly as pictured"
+REV-9947,BLN-1,ORD-109288,2026-10-07,4,"Works well, fast delivery"
+REV-9948,DNM-SL,ORD-109301,2026-10-10,2,Gift didn't work out
+REV-9949,MUG-4,ORD-109316,2026-10-09,5,Great quality for the price
+REV-9950,EB-200,ORD-109325,2026-10-14,4,"Works well, fast delivery"
+REV-9951,SNK-TR,ORD-109334,2026-10-07,5,Great quality for the price
+REV-9952,CHG-65,ORD-109335,2026-10-10,4,"Works well, fast delivery"
+REV-9953,SNK-TR,ORD-109340,2026-10-11,2,Changed my mind
+REV-9954,VASE-1,ORD-109358,2026-10-06,1,"Shade arrived cracked, parcel was clearly mishandled"
+REV-9955,EB-200,ORD-109375,2026-10-12,4,"Good, but a bit pricey"
+REV-9956,CHG-65,ORD-109388,2026-10-13,4,"Works well, fast delivery"
+REV-9957,DNM-SL,ORD-109394,2026-10-15,4,"Good, but a bit pricey"
+REV-9958,EB-200,ORD-109399,2026-10-12,4,"Good, but a bit pricey"
+REV-9959,BAG-TT,ORD-109442,2026-10-16,4,"Good, but a bit pricey"
+REV-9960,SH-LIN,ORD-109458,2026-10-15,4,"Good, but a bit pricey"
+REV-9961,MUG-4,ORD-109459,2026-10-11,5,"Love it, exactly as pictured"
+REV-9962,MUG-4,ORD-109466,2026-10-13,2,Ordered by mistake
+REV-9963,SH-LIN,ORD-109487,2026-10-12,4,"Works well, fast delivery"
+REV-9964,BAG-TT,ORD-109495,2026-10-15,4,"Works well, fast delivery"
+REV-9965,SH-LIN,ORD-109506,2026-10-09,5,"Love it, exactly as pictured"
+REV-9966,BTL-IN,ORD-109518,2026-10-12,1,"Cheap feel, stitching coming loose"
+REV-9968,BAG-TT,ORD-109544,2026-10-15,5,"Love it, exactly as pictured"
+REV-9971,SH-LIN,ORD-109564,2026-10-13,4,"Works well, fast delivery"
+REV-9972,MUG-4,ORD-109569,2026-10-12,4,"Works well, fast delivery"
+REV-9973,SH-LIN,ORD-109573,2026-10-11,5,"Love it, exactly as pictured"
+REV-9976,TEE-OR,ORD-109629,2026-10-13,4,"Good, but a bit pricey"
+REV-9978,TEE-OR,ORD-109635,2026-10-13,4,"Good, but a bit pricey"
+REV-9979,BLN-1,ORD-109652,2026-10-12,4,"Works well, fast delivery"
+REV-9981,VASE-1,ORD-109671,2026-10-11,1,Glass broke in transit
+REV-9986,SH-LIN,ORD-109725,2026-10-13,4,"Works well, fast delivery"
+REV-9987,CHG-65,ORD-109729,2026-10-16,1,"Faulty unit, doesn't turn on"

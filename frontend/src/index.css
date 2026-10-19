@@ -1,0 +1,204 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------ theme tokens
+   Pastels are fills; "-ink" variants are for coloured text, lines and charts.
+   In dark mode they are the same pastel; in light mode the inks are deeper so text stays readable. */
+:root,
+.light {
+  --bg: 247 247 249;
+  --panel: 255 255 255;
+  --panel2: 255 255 255;
+  --hover: 250 251 252;
+  --text: 23 25 30;
+  --strong: 8 9 10;
+  --body: 48 52 59;
+  --muted: 92 98 107;
+  --faint: 107 113 121;
+  --dim: 163 168 175;
+  --ink: 23 26 33;
+  --shadow: 23 26 33;
+  --sky: 220 235 247;
+  --mist: 232 227 243;
+  --blush: 245 224 236;
+  --rose: 253 226 228;
+  --butter: 252 243 207;
+  --mint: 217 242 230;
+  --sky-ink: 47 106 163;
+  --mist-ink: 93 88 136;
+  --blush-ink: 161 70 111;
+  --rose-ink: 177 58 74;
+  --butter-ink: 134 103 15;
+  --mint-ink: 42 118 83;
+  /* charts (validated: blue + orange pass colour-blind and contrast checks on both themes) */
+  --series-1: 42 120 214;
+  --series-2: 235 104 52;
+  --good: 12 163 12;
+  --serious: 236 131 90;
+  --critical: 208 59 59;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: 8 9 10;
+  --panel: 12 13 15;
+  --panel2: 19 20 24;
+  --hover: 15 16 19;
+  --text: 236 238 240;
+  --strong: 255 255 255;
+  --body: 214 217 221;
+  --muted: 161 166 174;
+  --faint: 133 138 147;
+  --dim: 90 95 103;
+  --ink: 255 255 255;
+  --shadow: 0 0 0;
+  --sky-ink: 220 235 247;
+  --mist-ink: 232 227 243;
+  --blush-ink: 245 224 236;
+  --rose-ink: 253 226 228;
+  --butter-ink: 252 243 207;
+  --mint-ink: 217 242 230;
+  --series-1: 57 135 229;
+  --series-2: 217 89 38;
+  --good: 12 163 12;
+  --serious: 236 131 90;
+  --critical: 208 59 59;
+  color-scheme: dark;
+}
+
+html,
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+  font-family: Geist, ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  transition: background-color 0.35s ease, color 0.35s ease;
+}
+
+::selection {
+  background: rgb(var(--sky) / 0.45);
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-line/[0.07] bg-panel;
+  }
+  .card-hover {
+    transition: box-shadow .25s ease, border-color .25s ease, background-color .25s ease;
+  }
+  .card-hover:hover {
+    border-color: rgb(var(--sky-ink) / .45);
+    box-shadow: 0 0 0 4px rgb(var(--sky-ink) / .12);
+  }
+  .btn {
+    @apply inline-flex h-8 items-center justify-center gap-1.5 whitespace-nowrap rounded-lg border border-line/[0.09] bg-line/[0.03] px-3 text-[13px] text-text transition duration-150 ease-out hover:border-line/[0.15] hover:bg-line/[0.07] active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply inline-flex h-8 items-center justify-center gap-1.5 whitespace-nowrap rounded-lg bg-sky px-3.5 text-[13px] font-medium text-onpastel transition duration-150 ease-out hover:brightness-[1.03] hover:shadow-[0_0_0_3px_rgb(var(--sky)/0.45)] active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50;
+  }
+  .btn-mint {
+    @apply inline-flex h-8 items-center justify-center gap-1.5 whitespace-nowrap rounded-lg bg-mint px-3.5 text-[13px] font-medium text-onpastel transition duration-150 ease-out hover:brightness-[1.04] active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50;
+  }
+  .btn-ghost {
+    @apply inline-flex h-8 items-center gap-1.5 rounded-lg px-2.5 text-[13px] text-muted transition hover:bg-line/[0.05] hover:text-text;
+  }
+  .input {
+    @apply h-9 w-full rounded-lg border border-line/[0.09] bg-line/[0.02] px-3 text-sm text-text outline-none transition placeholder:text-faint hover:border-line/[0.16] focus:border-sky-ink/60 focus:bg-line/[0.035] focus:ring-[3px] focus:ring-sky-ink/15;
+  }
+  .label {
+    @apply text-xs text-muted;
+  }
+  .eyebrow {
+    @apply text-[11px] uppercase tracking-[0.06em] text-muted;
+  }
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-xs;
+  }
+  .focus-ring {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-ink/60 focus-visible:ring-offset-2 focus-visible:ring-offset-bg;
+  }
+}
+
+a,
+button,
+input,
+select,
+textarea {
+  @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-sky-ink/60 focus-visible:ring-offset-2 focus-visible:ring-offset-bg;
+}
+
+/* ------------------------------------------------------------------ motion
+   ReturnLens's own motion language is optical: things come into focus (blur to sharp), get looked at
+   through a ring (hover), and develop like a photo (cells fade up in sequence). */
+@keyframes focus-in { from { opacity: 0; filter: blur(10px); transform: scale(.985) } to { opacity: 1; filter: blur(0); transform: none } }
+@keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+@keyframes develop { from { opacity: 0; transform: scale(.4) } to { opacity: 1; transform: none } }
+@keyframes turn { to { transform: rotate(360deg) } }
+@keyframes ring-out { 0% { transform: scale(.6); opacity: .9 } 100% { transform: scale(2.2); opacity: 0 } }
+@keyframes trace { from { stroke-dashoffset: var(--len, 400) } to { stroke-dashoffset: 0 } }
+@keyframes march { to { stroke-dashoffset: -16 } }
+@keyframes feed { from { transform: translateY(0) } to { transform: translateY(-50%) } }
+@keyframes breathe { 0%, 100% { transform: scale(1) } 50% { transform: scale(1.03) } }
+@keyframes tag-in { 0%, 18% { opacity: 0; transform: translateX(-8px) } 28%, 86% { opacity: 1; transform: none } 100% { opacity: 0 } }
+@keyframes sharpen { 0%, 15% { filter: blur(6px); opacity: .55 } 55%, 100% { filter: blur(0); opacity: 1 } }
+@keyframes shimmer { from { background-position: 100% 0 } to { background-position: -100% 0 } }
+@keyframes slide-in { from { transform: translateX(24px); opacity: 0 } to { transform: none; opacity: 1 } }
+@keyframes toast { from { opacity: 0; transform: translateY(8px) scale(.98) } to { opacity: 1; transform: none } }
+@keyframes spin { to { transform: rotate(360deg) } }
+@keyframes check { from { transform: scale(.4); opacity: 0 } to { transform: none; opacity: 1 } }
+
+.anim-rise, .anim-focus { animation: focus-in .85s cubic-bezier(.2, .8, .2, 1) both }
+.anim-fade { animation: fade .35s ease both }
+.anim-develop { animation: develop .45s cubic-bezier(.2, .8, .2, 1) both }
+.anim-turn { transform-box: fill-box; transform-origin: center; animation: turn 60s linear infinite }
+.anim-turn-fast { transform-box: fill-box; transform-origin: center; animation: turn 2.4s linear infinite }
+.anim-ring { transform-box: fill-box; transform-origin: center; animation: ring-out 2.2s ease-out infinite }
+.anim-trace { stroke-dasharray: var(--len, 400); animation: trace 1.2s cubic-bezier(.4, 0, .2, 1) .3s both }
+.anim-march { stroke-dasharray: 4 4; animation: march 1.2s linear infinite }
+.anim-feed { animation: feed 26s linear infinite }
+.anim-breathe { animation: breathe 4s ease-in-out infinite }
+.anim-tag { animation: tag-in 6.5s ease-in-out infinite }
+.anim-sharpen { animation: sharpen 1.6s ease-out both }
+.anim-slide-in { animation: slide-in .35s cubic-bezier(.2, .8, .2, 1) both }
+.anim-toast { animation: toast .4s cubic-bezier(.2, .8, .2, 1) both }
+.anim-spin { animation: spin .8s linear infinite }
+.anim-check { animation: check .35s cubic-bezier(.2, .8, .2, 1) both }
+.shimmer {
+  background: linear-gradient(90deg, rgb(var(--ink) / .04) 0%, rgb(var(--ink) / .09) 40%, rgb(var(--ink) / .04) 80%);
+  background-size: 200% 100%;
+  animation: shimmer 1.6s ease-in-out infinite;
+}
+/* Hover = looked at through the lens: a soft ring, no lift */
+.lens { transition: box-shadow .25s ease, border-color .25s ease, background-color .25s ease }
+.lens:hover { border-color: rgb(var(--sky-ink) / .45); box-shadow: 0 0 0 4px rgb(var(--sky-ink) / .12) }
+/* The magnifier on the home page: everything outside the lens is softly out of focus */
+.lens-veil {
+  background: rgb(var(--panel) / .4);
+  -webkit-backdrop-filter: blur(3px); backdrop-filter: blur(3px);
+  -webkit-mask-image: radial-gradient(circle var(--r, 96px) at var(--x, 58%) var(--y, 46%), transparent calc(var(--r, 96px) - 2px), #000 calc(var(--r, 96px) + 1px));
+  mask-image: radial-gradient(circle var(--r, 96px) at var(--x, 58%) var(--y, 46%), transparent calc(var(--r, 96px) - 2px), #000 calc(var(--r, 96px) + 1px));
+}
+.marker { background: linear-gradient(transparent 58%, rgb(var(--butter)) 58%, rgb(var(--butter)) 92%, transparent 92%) }
+.dark .marker { background: linear-gradient(transparent 62%, rgb(var(--butter-ink) / .32) 62%, rgb(var(--butter-ink) / .32) 94%, transparent 94%) }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    animation-delay: 0ms !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Native dropdown lists follow the theme (otherwise dark text can land on a dark popup) */
+select option,
+select optgroup {
+  background-color: rgb(var(--panel2));
+  color: rgb(var(--text));
+}
+
+/* Horizontal tab bars scroll on small screens without showing a scrollbar */
+.no-scrollbar { scrollbar-width: none; }
+.no-scrollbar::-webkit-scrollbar { display: none; }

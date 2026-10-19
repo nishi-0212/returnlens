@@ -1,0 +1,225 @@
+RMA #,Order Number,Item SKU,Return Date,Qty Returned,Return Reason,Customer Comment,Refund Amount,Return Label Cost,Resolution,Item Condition
+RMA-5587,ORD-106801,BAG-TT,2026-09-01,1,Defective,Stopped working after a few days,24.00,,Refund,Defective
+RMA-5589,ORD-106815,VASE-1,2026-09-01,1,Arrived late,Delivery was very late,26.00,,Refund,Opened
+RMA-5594,ORD-106847,SH-LIN,2026-09-03,1,Not as described,"Not as described, the colour is completely different",45.00,9.00,Refund,Opened
+RMA-5609,ORD-106925,SH-LIN,2026-09-06,1,Not as described,,45.00,8.00,Refund,Opened
+RMA-5610,ORD-106931,EB-200,2026-09-03,2,Arrived late,Took 12 days to deliver,118.00,8.00,Refund,Opened
+RMA-5611,ORD-106934,EB-200,2026-09-04,1,Defective,"Right earbud is dead, the charging contacts don't connect",0.00,,Replacement,Defective
+RMA-5613,ORD-106943,DNM-SL,2026-09-03,1,Doesn't fit,Too tight around the thighs,59.00,7.00,Refund,Unopened
+RMA-5616,ORD-106961,SNK-TR,2026-09-01,1,Quality not as expected,Colour faded after one wash,85.00,,Refund,Unopened
+RMA-5622,ORD-107025,TEE-OR,2026-09-06,1,Defective,"Faulty unit, doesn't turn on",22.00,9.00,Refund,Defective
+RMA-5623,ORD-107031,EB-200,2026-09-03,1,Defective,Left earbud stopped charging after a week,0.00,9.00,Replacement,Defective
+RMA-5624,ORD-107040,DNM-SL,2026-09-03,2,Doesn't fit,"Fit is off, too loose at the waist",118.00,7.50,Refund,Opened
+RMA-5625,ORD-107045,BTL-IN,2026-09-07,1,Arrived late,Arrived too late for the event,27.00,8.00,Refund,Opened
+RMA-5626,ORD-107048,TEE-OR,2026-09-04,1,Changed mind,Changed my mind,22.00,7.50,Refund,Unopened
+RMA-5627,ORD-107058,SNK-TR,2026-09-03,1,Too small,"Toes hit the front, order one size up",85.00,,Refund,Opened
+RMA-5632,ORD-107088,EB-200,2026-09-02,2,Other,Charging case lights up but the earbuds never charge,118.00,9.00,Refund,Defective
+RMA-5633,ORD-107104,EB-200,2026-09-03,1,Defective,Charging case lights up but the earbuds never charge,59.00,,Refund,Defective
+RMA-5635,ORD-107121,CHG-65,2026-09-02,1,Changed mind,Changed my mind,29.00,7.00,Refund,Opened
+RMA-5637,ORD-107137,CHG-65,2026-09-03,1,Changed mind,Ordered by mistake,29.00,7.00,Refund,Unopened
+RMA-5638,ORD-107141,EB-200,2026-09-01,1,Defective,,0.00,,Replacement,Defective
+RMA-5642,ORD-107187,BAG-TT,2026-09-01,1,Other,Ordered by mistake,24.00,7.50,Refund,Opened
+RMA-5644,ORD-107206,CHG-65,2026-09-03,1,Changed mind,Changed my mind,29.00,,Refund,Opened
+RMA-5647,ORD-107224,BLN-1,2026-09-03,2,Changed mind,Gift didn't work out,178.00,,Refund,Opened
+RMA-5649,ORD-107240,SNK-TR,2026-09-05,1,Too small,Narrow and short compared to the chart,85.00,7.00,Refund,Unopened
+RMA-5650,ORD-107242,SH-LIN,2026-09-05,1,Changed mind,Gift didn't work out,45.00,7.00,Refund,Unopened
+RMA-5651,ORD-107248,SNK-TR,2026-09-07,1,Changed mind,Changed my mind,85.00,7.00,Refund,Opened
+RMA-5652,ORD-107250,SNK-TR,2026-09-10,2,Too small,Narrow and short compared to the chart,170.00,,Refund,Opened
+RMA-5653,ORD-107252,TEE-OR,2026-09-07,1,Other,Gift didn't work out,22.00,7.50,Refund,Opened
+RMA-5655,ORD-107259,TEE-OR,2026-09-05,1,Doesn't fit,,22.00,,Refund,Unopened
+RMA-5657,ORD-107261,CHG-65,2026-09-11,1,Arrived late,Delivery was very late,29.00,9.00,Refund,Opened
+RMA-5658,ORD-107277,VASE-1,2026-09-04,1,Changed mind,Changed my mind,26.00,,Refund,Unopened
+RMA-5661,ORD-107344,EB-200,2026-09-11,1,Defective,"Right earbud is dead, the charging contacts don't connect",59.00,,Refund,Defective
+RMA-5662,ORD-107351,MUG-4,2026-09-02,1,Wrong item,Got a different size than I ordered,34.00,8.00,Refund,Opened
+RMA-5663,ORD-107352,SNK-TR,2026-09-06,1,Too small,,85.00,8.00,Refund,Opened
+RMA-5664,ORD-107360,MUG-4,2026-09-04,1,Other,Material feels thin and flimsy,34.00,9.00,Refund,Unopened
+RMA-5665,ORD-107373,BLN-1,2026-09-02,1,Missing parts,The rubber gasket for the lid wasn't in the box,89.00,7.00,Refund,Incomplete
+RMA-5666,ORD-107383,TEE-OR,2026-09-11,1,Doesn't fit,,22.00,8.00,Refund,Opened
+RMA-5667,ORD-107385,DNM-SL,2026-09-11,1,Doesn't fit,Size chart doesn't match the actual fit,59.00,7.50,Refund,Opened
+RMA-5669,ORD-107390,SNK-TR,2026-09-01,1,Too small,Size 9 fits like an 8,85.00,,Refund,Opened
+RMA-5670,ORD-107392,VASE-1,2026-09-01,1,Changed mind,No longer needed,26.00,,Refund,Opened
+RMA-5671,ORD-107393,SNK-TR,2026-09-09,2,Too small,,170.00,,Refund,Unopened
+RMA-5672,ORD-107395,TEE-OR,2026-09-13,1,Other,Found it cheaper elsewhere,22.00,6.50,Refund,Unopened
+RMA-5673,ORD-107396,BLN-1,2026-09-02,1,Missing parts,The rubber gasket for the lid wasn't in the box,0.00,,Replacement,Incomplete
+RMA-5675,ORD-107420,EB-200,2026-09-14,1,Defective,Case won't charge the right bud anymore,0.00,6.50,Replacement,Defective
+RMA-5676,ORD-107423,DNM-SL,2026-09-10,1,Doesn't fit,Inseam shorter than the size chart,59.00,7.50,Refund,Unopened
+RMA-5677,ORD-107430,EB-200,2026-09-02,2,Defective,Left earbud stopped charging after a week,118.00,9.00,Refund,Defective
+RMA-5678,ORD-107432,DNM-SL,2026-09-03,1,Doesn't fit,Inseam shorter than the size chart,59.00,6.50,Refund,Opened
+RMA-5679,ORD-107435,BLN-1,2026-09-06,1,Missing parts,"Missing the lid seal, jar leaks",89.00,,Refund,Incomplete
+RMA-5680,ORD-107440,TEE-OR,2026-09-09,1,Defective,Broke within a week of use,22.00,,Refund,Defective
+RMA-5681,ORD-107457,LAMP-2,2026-09-11,1,Quality not as expected,Material feels thin and flimsy,79.00,6.50,Refund,Unopened
+RMA-5682,ORD-107464,SNK-TR,2026-09-14,1,Too small,"Too tight in the toe box, had to size up",85.00,7.00,Refund,Unopened
+RMA-5683,ORD-107474,SNK-TR,2026-09-12,1,Too small,"Too tight in the toe box, had to size up",85.00,8.00,Refund,Unopened
+RMA-5684,ORD-107483,CHG-65,2026-09-06,1,Quality not as expected,Colour faded after one wash,29.00,,Refund,Opened
+RMA-5685,ORD-107485,SH-LIN,2026-09-11,1,Not as described,Says 100% linen but feels like a polyester blend,45.00,,Refund,Opened
+RMA-5686,ORD-107488,EB-200,2026-09-11,1,Arrived late,Arrived too late for the event,59.00,7.00,Refund,Unopened
+RMA-5687,ORD-107490,EB-200,2026-09-07,1,Defective,Case won't charge the right bud anymore,59.00,7.00,Refund,Defective
+RMA-5688,ORD-107494,BLN-1,2026-09-02,1,Other,"Box opened, tamper and seal missing",0.00,8.00,Replacement,Incomplete
+RMA-5689,ORD-107502,MUG-4,2026-09-09,1,Changed mind,,34.00,,Refund,Opened
+RMA-5690,ORD-107508,SH-LIN,2026-09-09,1,Not as described,"Fabric is not linen, misleading description",45.00,,Refund,Opened
+RMA-5691,ORD-107515,SH-LIN,2026-09-08,2,Doesn't fit,Too big,90.00,,Refund,Opened
+RMA-5692,ORD-107533,SNK-TR,2026-09-15,1,Too small,Size 9 fits like an 8,85.00,,Refund,Opened
+RMA-5693,ORD-107536,MUG-4,2026-09-05,1,Damaged,The box was caved in and a mug handle snapped,34.00,8.00,Refund,Damaged
+RMA-5694,ORD-107548,SH-LIN,2026-09-15,1,Not as described,Looks nothing like the pictures,45.00,9.00,Refund,Opened
+RMA-5695,ORD-107553,MUG-4,2026-09-05,1,Damaged,Box was crushed and two mugs were chipped,34.00,7.50,Refund,Damaged
+RMA-5696,ORD-107554,SNK-TR,2026-09-15,1,Too small,Way smaller than my usual size,85.00,7.00,Refund,Opened
+RMA-5697,ORD-107556,CHG-65,2026-09-18,1,Quality not as expected,Material feels thin and flimsy,29.00,7.50,Refund,Opened
+RMA-5698,ORD-107560,MUG-4,2026-09-03,1,Damaged,Box was crushed and two mugs were chipped,34.00,,Refund,Damaged
+RMA-5699,ORD-107575,EB-200,2026-09-04,1,Defective,Left earbud stopped charging after a week,59.00,,Refund,Defective
+RMA-5700,ORD-107576,SNK-TR,2026-09-09,1,Too small,Way smaller than my usual size,85.00,8.00,Refund,Unopened
+RMA-5701,ORD-107578,EB-200,2026-09-09,1,Defective,,0.00,7.00,Replacement,Defective
+RMA-5702,ORD-107580,MUG-4,2026-09-06,1,Damaged,"Packaging too thin, mugs arrived cracked",34.00,7.00,Refund,Damaged
+RMA-5703,ORD-107582,MUG-4,2026-09-01,1,Damaged,"Packaging too thin, mugs arrived cracked",34.00,8.00,Refund,Damaged
+RMA-5704,ORD-107584,MUG-4,2026-09-05,1,Other,The box was caved in and a mug handle snapped,0.00,8.00,Replacement,Damaged
+RMA-5705,ORD-107585,BTL-IN,2026-09-17,1,Arrived late,,27.00,6.50,Refund,Unopened
+RMA-5706,ORD-107592,TEE-OR,2026-09-08,1,Changed mind,Changed my mind,22.00,8.00,Refund,Opened
+RMA-5707,ORD-107603,LAMP-2,2026-09-06,1,Changed mind,Changed my mind,79.00,,Refund,Unopened
+RMA-5708,ORD-107609,SNK-TR,2026-09-13,1,Too small,"Too tight in the toe box, had to size up",85.00,9.00,Refund,Opened
+RMA-5709,ORD-107615,VASE-1,2026-09-08,2,Damaged on arrival,"Damaged on arrival, shade cracked in shipping",0.00,,Replacement,Damaged
+RMA-5710,ORD-107632,SNK-TR,2026-09-08,1,Too small,Runs a full size small,85.00,7.50,Refund,Opened
+RMA-5711,ORD-107648,CHG-65,2026-09-09,1,Changed mind,Found it cheaper elsewhere,29.00,,Refund,Opened
+RMA-5712,ORD-107651,SNK-TR,2026-09-12,1,Too small,Size 9 fits like an 8,85.00,7.00,Refund,Opened
+RMA-5713,ORD-107657,MUG-4,2026-09-05,1,Damaged,Box was crushed and two mugs were chipped,34.00,6.50,Refund,Damaged
+RMA-5714,ORD-107673,DNM-SL,2026-09-09,2,Changed mind,No longer needed,118.00,9.00,Refund,Opened
+RMA-5715,ORD-107678,SNK-TR,2026-09-06,1,Too small,"Toes hit the front, order one size up",85.00,,Refund,Opened
+RMA-5716,ORD-107689,BLN-1,2026-09-13,1,Defective,,89.00,9.00,Refund,Defective
+RMA-5717,ORD-107697,TEE-OR,2026-09-08,1,Other,Ordered by mistake,22.00,6.50,Refund,Opened
+RMA-5718,ORD-107702,VASE-1,2026-09-04,1,Damaged on arrival,,26.00,,Refund,Damaged
+RMA-5719,ORD-107714,EB-200,2026-09-09,1,Other,Found it cheaper elsewhere,59.00,9.00,Refund,Opened
+RMA-5720,ORD-107720,SH-LIN,2026-09-19,1,Doesn't fit,Too small,45.00,6.50,Refund,Opened
+RMA-5721,ORD-107722,EB-200,2026-09-19,1,Changed mind,Found it cheaper elsewhere,59.00,6.50,Refund,Opened
+RMA-5722,ORD-107739,MUG-4,2026-09-06,1,Changed mind,Changed my mind,34.00,,Refund,Unopened
+RMA-5723,ORD-107744,MUG-4,2026-09-19,2,Changed mind,Found it cheaper elsewhere,68.00,,Refund,Opened
+RMA-5724,ORD-107751,CHG-65,2026-09-17,1,Quality not as expected,Material feels thin and flimsy,29.00,,Refund,Opened
+RMA-5725,ORD-107769,VASE-1,2026-09-14,1,Other,Ordered by mistake,26.00,7.00,Refund,Opened
+RMA-5726,ORD-107788,SNK-TR,2026-09-14,2,Changed mind,,170.00,6.50,Refund,Unopened
+RMA-5727,ORD-107793,SH-LIN,2026-09-19,1,Not as described,"The photos made it look sage green, it's a dull grey",45.00,8.00,Refund,Opened
+RMA-5728,ORD-107831,SH-LIN,2026-09-11,1,Doesn't fit,Too big,45.00,,Refund,Unopened
+RMA-5729,ORD-107846,SNK-TR,2026-09-17,1,Changed mind,No longer needed,85.00,7.00,Refund,Opened
+RMA-5730,ORD-107862,TEE-OR,2026-09-14,1,Doesn't fit,Too big,22.00,,Refund,Unopened
+RMA-5731,ORD-107863,SH-LIN,2026-09-08,1,Defective,Stopped working after a few days,45.00,,Refund,Defective
+RMA-5732,ORD-107872,MUG-4,2026-09-09,1,Damaged on arrival,"Arrived broken, delivery guy dropped it",0.00,8.00,Replacement,Damaged
+RMA-5733,ORD-107909,EB-200,2026-09-10,2,Wrong item,Got a different size than I ordered,118.00,,Refund,Opened
+RMA-5734,ORD-107924,TEE-OR,2026-09-14,1,Doesn't fit,Too big,22.00,9.00,Refund,Opened
+RMA-5735,ORD-107929,VASE-1,2026-09-12,1,Damaged on arrival,"Arrived shattered, the courier box was smashed",26.00,8.00,Refund,Damaged
+RMA-5736,ORD-107931,LAMP-2,2026-09-14,1,Damaged on arrival,"Arrived shattered, the courier box was smashed",0.00,7.00,Replacement,Damaged
+RMA-5737,ORD-107944,SNK-TR,2026-09-21,1,Too small,"Too tight in the toe box, had to size up",85.00,,Refund,Unopened
+RMA-5738,ORD-107948,TEE-OR,2026-09-23,1,Changed mind,No longer needed,22.00,,Refund,Unopened
+RMA-5739,ORD-107949,MUG-4,2026-09-16,1,Arrived late,Took 12 days to deliver,34.00,7.00,Refund,Opened
+RMA-5740,ORD-107954,BAG-TT,2026-09-23,1,Quality not as expected,Material feels thin and flimsy,24.00,,Refund,Opened
+RMA-5741,ORD-107972,SNK-TR,2026-09-22,1,Too small,,85.00,,Refund,Opened
+RMA-5742,ORD-107988,BTL-IN,2026-09-20,1,Quality not as expected,Colour faded after one wash,27.00,7.50,Refund,Opened
+RMA-5743,ORD-108016,VASE-1,2026-09-10,1,Other,"Came in pieces, outer box had a big dent from the courier",0.00,9.00,Replacement,Damaged
+RMA-5744,ORD-108024,MUG-4,2026-09-22,1,Quality not as expected,Material feels thin and flimsy,34.00,8.00,Refund,Opened
+RMA-5745,ORD-108025,BLN-1,2026-09-21,1,Quality not as expected,Material feels thin and flimsy,89.00,7.50,Refund,Opened
+RMA-5746,ORD-108029,DNM-SL,2026-09-11,1,Doesn't fit,Size chart doesn't match the actual fit,59.00,,Refund,Opened
+RMA-5747,ORD-108039,SH-LIN,2026-09-19,1,Other,Doesn't fit,45.00,7.00,Refund,Unopened
+RMA-5748,ORD-108069,BAG-TT,2026-09-19,1,Changed mind,Gift didn't work out,24.00,7.00,Refund,Opened
+RMA-5749,ORD-108079,BAG-TT,2026-09-16,1,Changed mind,,24.00,7.00,Refund,Opened
+RMA-5750,ORD-108091,VASE-1,2026-09-27,1,Changed mind,Changed my mind,26.00,,Refund,Unopened
+RMA-5751,ORD-108101,SH-LIN,2026-09-18,1,Changed mind,No longer needed,45.00,,Refund,Opened
+RMA-5752,ORD-108103,SNK-TR,2026-09-25,1,Defective,Stopped working after a few days,85.00,7.50,Refund,Defective
+RMA-5753,ORD-108136,LAMP-2,2026-09-24,1,Changed mind,Ordered by mistake,79.00,7.00,Refund,Unopened
+RMA-5754,ORD-108149,EB-200,2026-09-16,1,Defective,Case won't charge the right bud anymore,59.00,7.50,Refund,Defective
+RMA-5755,ORD-108152,CHG-65,2026-09-17,1,Changed mind,Changed my mind,29.00,,Refund,Opened
+RMA-5756,ORD-108153,VASE-1,2026-09-20,1,Quality not as expected,"Cheap feel, stitching coming loose",26.00,7.00,Refund,Opened
+RMA-5757,ORD-108165,DNM-SL,2026-09-19,1,Quality not as expected,"Cheap feel, stitching coming loose",59.00,,Refund,Opened
+RMA-5758,ORD-108175,SNK-TR,2026-09-16,1,Quality not as expected,Material feels thin and flimsy,85.00,9.00,Refund,Opened
+RMA-5759,ORD-108176,DNM-SL,2026-09-23,2,Doesn't fit,Too tight around the thighs,118.00,7.00,Refund,Opened
+RMA-5760,ORD-108184,EB-200,2026-09-29,1,Defective,Charging case lights up but the earbuds never charge,0.00,,Replacement,Defective
+RMA-5761,ORD-108190,VASE-1,2026-09-15,1,Damaged on arrival,,0.00,,Replacement,Damaged
+RMA-5762,ORD-108216,SH-LIN,2026-09-16,1,Wrong item,Received the wrong colour,45.00,,Refund,Opened
+RMA-5763,ORD-108232,LAMP-2,2026-09-15,1,Damaged on arrival,"Came in pieces, outer box had a big dent from the courier",0.00,8.00,Replacement,Damaged
+RMA-5764,ORD-108253,BTL-IN,2026-09-26,1,Changed mind,Ordered by mistake,27.00,9.00,Refund,Unopened
+RMA-5765,ORD-108256,LAMP-2,2026-09-18,1,Damaged on arrival,"Arrived broken, delivery guy dropped it",0.00,7.00,Replacement,Damaged
+RMA-5766,ORD-108259,LAMP-2,2026-09-18,1,Damaged on arrival,"Shade arrived cracked, parcel was clearly mishandled",0.00,9.00,Replacement,Damaged
+RMA-5767,ORD-108292,MUG-4,2026-09-29,1,Changed mind,No longer needed,34.00,7.00,Refund,Opened
+RMA-5768,ORD-108316,MUG-4,2026-09-21,1,Damaged,"Flimsy box with no dividers, one mug broke",0.00,9.00,Replacement,Damaged
+RMA-5769,ORD-108328,BAG-TT,2026-09-29,1,Other,No longer needed,24.00,,Refund,Opened
+RMA-5770,ORD-108334,LAMP-2,2026-09-21,1,Other,Glass broke in transit,79.00,8.00,Refund,Damaged
+RMA-5771,ORD-108355,BTL-IN,2026-09-28,1,Defective,"Faulty unit, doesn't turn on",27.00,6.50,Refund,Defective
+RMA-5772,ORD-108355,VASE-1,2026-09-23,1,Defective,Broke within a week of use,26.00,,Refund,Defective
+RMA-5773,ORD-108372,VASE-1,2026-09-21,1,Damaged on arrival,"Arrived shattered, the courier box was smashed",26.00,,Refund,Damaged
+RMA-5774,ORD-108384,SH-LIN,2026-09-25,1,Doesn't fit,Too big,45.00,,Refund,Opened
+RMA-5775,ORD-108465,TEE-OR,2026-09-29,2,Changed mind,Ordered by mistake,44.00,,Refund,Opened
+RMA-5776,ORD-108474,VASE-1,2026-10-01,1,Changed mind,Gift didn't work out,26.00,7.00,Refund,Opened
+RMA-5777,ORD-108478,EB-200,2026-09-23,1,Wrong item,Wrong item in the box,59.00,,Refund,Opened
+RMA-5778,ORD-108482,VASE-1,2026-09-19,1,Wrong item,Wrong item in the box,26.00,9.00,Refund,Opened
+RMA-5779,ORD-108495,SNK-TR,2026-10-03,1,Changed mind,Gift didn't work out,85.00,,Refund,Opened
+RMA-5780,ORD-108499,TEE-OR,2026-09-30,2,Arrived late,Delivery was very late,44.00,,Refund,Opened
+RMA-5781,ORD-108500,BTL-IN,2026-09-19,1,Wrong item,,27.00,9.00,Refund,Unopened
+RMA-5782,ORD-108503,CHG-65,2026-09-23,1,Wrong item,Wrong item in the box,29.00,7.00,Refund,Unopened
+RMA-5783,ORD-108518,DNM-SL,2026-09-25,1,Wrong item,Got a different size than I ordered,59.00,7.50,Refund,Unopened
+RMA-5784,ORD-108527,SNK-TR,2026-10-05,1,Too small,"Toes hit the front, order one size up",85.00,,Refund,Unopened
+RMA-5785,ORD-108535,BLN-1,2026-10-01,1,Arrived late,Delivery was very late,89.00,9.00,Refund,Unopened
+RMA-5786,ORD-108539,MUG-4,2026-09-21,1,Damaged on arrival,"Shade arrived cracked, parcel was clearly mishandled",34.00,,Refund,Damaged
+RMA-5787,ORD-108540,DNM-SL,2026-09-30,1,Doesn't fit,"Fit is off, too loose at the waist",59.00,,Refund,Unopened
+RMA-5788,ORD-108557,VASE-1,2026-10-02,1,Changed mind,Changed my mind,26.00,6.50,Refund,Opened
+RMA-5789,ORD-108610,BAG-TT,2026-10-05,1,Changed mind,No longer needed,24.00,8.00,Refund,Unopened
+RMA-5790,ORD-108619,VASE-1,2026-09-26,1,Damaged on arrival,"Arrived shattered, the courier box was smashed",0.00,8.00,Replacement,Damaged
+RMA-5791,ORD-108620,EB-200,2026-09-27,2,Defective,"Stopped working after 10 days, left side has no power",0.00,,Replacement,Defective
+RMA-5792,ORD-108642,VASE-1,2026-09-28,1,Changed mind,No longer needed,26.00,6.50,Refund,Opened
+RMA-5793,ORD-108643,DNM-SL,2026-10-08,1,Doesn't fit,"Fit is off, too loose at the waist",59.00,8.00,Refund,Opened
+RMA-5794,ORD-108647,MUG-4,2026-09-22,2,Damaged on arrival,"Came in pieces, outer box had a big dent from the courier",68.00,6.50,Refund,Damaged
+RMA-5795,ORD-108655,BLN-1,2026-10-01,2,Quality not as expected,"Cheap feel, stitching coming loose",178.00,,Refund,Unopened
+RMA-5796,ORD-108662,MUG-4,2026-09-28,1,Damaged on arrival,"Damaged on arrival, shade cracked in shipping",34.00,7.50,Refund,Damaged
+RMA-5797,ORD-108666,TEE-OR,2026-09-30,1,Doesn't fit,Too big,22.00,7.50,Refund,Unopened
+RMA-5798,ORD-108680,SH-LIN,2026-09-30,1,Changed mind,Ordered by mistake,45.00,8.00,Refund,Opened
+RMA-5799,ORD-108685,LAMP-2,2026-10-04,1,Changed mind,Gift didn't work out,79.00,7.00,Refund,Opened
+RMA-5800,ORD-108697,BLN-1,2026-10-02,1,Changed mind,Ordered by mistake,89.00,7.50,Refund,Opened
+RMA-5801,ORD-108720,SH-LIN,2026-09-25,1,Arrived late,Arrived too late for the event,45.00,7.00,Refund,Opened
+RMA-5802,ORD-108724,LAMP-2,2026-10-01,2,Other,Gift didn't work out,158.00,,Refund,Unopened
+RMA-5803,ORD-108779,DNM-SL,2026-10-01,1,Quality not as expected,Colour faded after one wash,59.00,7.00,Refund,Opened
+RMA-5804,ORD-108817,SH-LIN,2026-10-09,1,Doesn't fit,Doesn't fit,45.00,6.50,Refund,Opened
+RMA-5805,ORD-108829,SH-LIN,2026-10-03,1,Doesn't fit,Too small,45.00,6.50,Refund,Opened
+RMA-5806,ORD-108845,SNK-TR,2026-10-02,1,Too small,Runs a full size small,85.00,,Refund,Opened
+RMA-5807,ORD-108862,MUG-4,2026-09-29,1,Other,No longer needed,34.00,,Refund,Opened
+RMA-5808,ORD-108874,VASE-1,2026-10-08,1,Changed mind,Found it cheaper elsewhere,26.00,8.00,Refund,Opened
+RMA-5809,ORD-108877,LAMP-2,2026-10-02,1,Other,No longer needed,79.00,,Refund,Opened
+RMA-5810,ORD-108886,DNM-SL,2026-10-09,2,Changed mind,Ordered by mistake,118.00,9.00,Refund,Opened
+RMA-5811,ORD-108887,BAG-TT,2026-09-28,1,Changed mind,Gift didn't work out,24.00,8.00,Refund,Opened
+RMA-5812,ORD-108896,BLN-1,2026-10-11,1,Changed mind,Found it cheaper elsewhere,89.00,7.00,Refund,Opened
+RMA-5813,ORD-108904,BAG-TT,2026-10-12,1,Other,Found it cheaper elsewhere,24.00,9.00,Refund,Opened
+RMA-5814,ORD-108934,LAMP-2,2026-09-29,1,Damaged on arrival,,0.00,7.50,Replacement,Damaged
+RMA-5815,ORD-108939,BAG-TT,2026-09-30,1,Defective,Stopped working after a few days,24.00,,Refund,Defective
+RMA-5816,ORD-108941,VASE-1,2026-09-29,1,Other,"Cheap feel, stitching coming loose",26.00,9.00,Refund,Unopened
+RMA-5817,ORD-108974,SH-LIN,2026-10-09,1,Changed mind,No longer needed,45.00,8.00,Refund,Opened
+RMA-5818,ORD-108986,DNM-SL,2026-10-14,2,Doesn't fit,Inseam shorter than the size chart,118.00,7.50,Refund,Opened
+RMA-5819,ORD-108993,BLN-1,2026-10-08,1,Changed mind,Gift didn't work out,89.00,8.00,Refund,Opened
+RMA-5820,ORD-109003,MUG-4,2026-10-02,2,Changed mind,Ordered by mistake,68.00,7.00,Refund,Opened
+RMA-5821,ORD-109021,SH-LIN,2026-10-06,1,Not as described,"Fabric is not linen, misleading description",45.00,,Refund,Opened
+RMA-5822,ORD-109032,SNK-TR,2026-10-04,1,Defective,Stopped working after a few days,85.00,9.00,Refund,Defective
+RMA-5823,ORD-109035,BTL-IN,2026-10-08,1,Changed mind,Ordered by mistake,27.00,,Refund,Opened
+RMA-5824,ORD-109044,BLN-1,2026-10-11,1,Changed mind,Found it cheaper elsewhere,89.00,9.00,Refund,Opened
+RMA-5825,ORD-109059,CHG-65,2026-10-10,2,Changed mind,No longer needed,58.00,7.50,Refund,Opened
+RMA-5826,ORD-109067,DNM-SL,2026-10-10,1,Changed mind,Gift didn't work out,59.00,,Refund,Opened
+RMA-5827,ORD-109081,TEE-OR,2026-10-03,1,Wrong item,Wrong item in the box,22.00,,Refund,Unopened
+RMA-5828,ORD-109088,TEE-OR,2026-10-13,1,Quality not as expected,Colour faded after one wash,22.00,9.00,Refund,Opened
+RMA-5829,ORD-109103,VASE-1,2026-10-06,1,Damaged on arrival,"Came in pieces, outer box had a big dent from the courier",26.00,7.50,Refund,Damaged
+RMA-5830,ORD-109108,DNM-SL,2026-10-05,1,Doesn't fit,"Fit is off, too loose at the waist",59.00,7.00,Refund,Opened
+RMA-5832,ORD-109135,LAMP-2,2026-10-05,1,Changed mind,No longer needed,79.00,8.00,Refund,Opened
+RMA-5833,ORD-109173,DNM-SL,2026-10-08,1,Doesn't fit,"Fit is off, too loose at the waist",59.00,,Refund,Opened
+RMA-5834,ORD-109177,BAG-TT,2026-10-12,1,Changed mind,,24.00,7.00,Refund,Unopened
+RMA-5835,ORD-109184,DNM-SL,2026-10-08,1,Doesn't fit,"Fit is off, too loose at the waist",59.00,7.00,Refund,Opened
+RMA-5836,ORD-109204,DNM-SL,2026-10-05,1,Changed mind,,59.00,6.50,Refund,Unopened
+RMA-5837,ORD-109215,TEE-OR,2026-10-14,1,Doesn't fit,Too small,22.00,7.00,Refund,Opened
+RMA-5838,ORD-109238,TEE-OR,2026-10-16,1,Doesn't fit,Too big,22.00,7.50,Refund,Opened
+RMA-5839,ORD-109242,TEE-OR,2026-10-05,1,Doesn't fit,,22.00,,Refund,Opened
+RMA-5840,ORD-109272,VASE-1,2026-10-16,1,Defective,"Faulty unit, doesn't turn on",26.00,7.00,Refund,Defective
+RMA-5842,ORD-109301,DNM-SL,2026-10-10,1,Other,Gift didn't work out,59.00,,Refund,Opened
+RMA-5843,ORD-109302,TEE-OR,2026-10-07,1,Changed mind,Ordered by mistake,22.00,,Refund,Opened
+RMA-5844,ORD-109340,SNK-TR,2026-10-13,1,Changed mind,Changed my mind,85.00,7.00,Refund,Opened
+RMA-5845,ORD-109358,VASE-1,2026-10-08,1,Damaged on arrival,"Shade arrived cracked, parcel was clearly mishandled",26.00,,Refund,Damaged
+RMA-5846,ORD-109364,SH-LIN,2026-10-09,2,Quality not as expected,"Cheap feel, stitching coming loose",90.00,7.50,Refund,Opened
+RMA-5850,ORD-109466,MUG-4,2026-10-14,2,Changed mind,Ordered by mistake,68.00,9.00,Refund,Opened
+RMA-5851,ORD-109518,BTL-IN,2026-10-12,1,Quality not as expected,"Cheap feel, stitching coming loose",27.00,7.50,Refund,Opened
+RMA-5853,ORD-109553,EB-200,2026-10-13,1,Defective,,0.00,7.00,Replacement,Defective
+RMA-5854,ORD-109562,TEE-OR,2026-10-12,2,Wrong item,Wrong item in the box,44.00,,Refund,Unopened
+RMA-5855,ORD-109563,BAG-TT,2026-10-13,1,Changed mind,Gift didn't work out,24.00,,Refund,Opened
+RMA-5857,ORD-109625,SH-LIN,2026-10-13,1,Changed mind,,45.00,,Refund,Opened
+RMA-5860,ORD-109671,VASE-1,2026-10-12,1,Damaged on arrival,Glass broke in transit,0.00,,Replacement,Damaged
+RMA-5864,ORD-109716,VASE-1,2026-10-13,1,Damaged on arrival,Glass broke in transit,0.00,7.50,Replacement,Damaged
+RMA-5865,ORD-109717,DNM-SL,2026-10-15,1,Doesn't fit,Too tight around the thighs,59.00,,Refund,Opened
+RMA-5868,ORD-109764,BLN-1,2026-10-16,1,Changed mind,,89.00,7.00,Refund,Opened
+RMA-5875,ORD-109927,TEE-OR,2026-10-16,1,Changed mind,Changed my mind,22.00,,Refund,Opened
+RMA-5878,ORD-109950,BAG-TT,2026-10-16,1,Wrong item,Received the wrong colour,24.00,7.50,Refund,Unopened
